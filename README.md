@@ -43,3 +43,5 @@ Taste Data Transmission Network (TTN) is a Cyber-Physical System simulating end-
 | Sprint Alpha +1 | [Sprint Alpha](https://drive.google.com/drive/folders/1TGKRI3FodbM9AM4wki3onLOiRvzmlIdf?usp=drive_link) |
 | Project Artifacts | [Project Artifacts](https://drive.google.com/drive/folders/1p_LOMelqeetF80HmdlCLc08hhDfGDqzz?usp=sharing) |
 
+## Certificate
+Pre1 Computer Networks - Getting Started with Cisco Packet Tracer
