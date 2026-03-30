@@ -30,6 +30,8 @@ This repository serves as a comprehensive archive for my work in CP352005: Compu
 
 ## Group Assignments
 
+[Click here](Group_Assignment.md) to view the detail of each assignments
+
 | Assignment | Document Link |
 | --- | --- |
 | Lab1 | [Lab1](https://drive.google.com/drive/folders/12igTDyQwVWYtyPYPUFp_X_8hRi_3XuIe?usp=sharing) |
