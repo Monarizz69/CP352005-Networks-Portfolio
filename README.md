@@ -36,7 +36,7 @@ This repository serves as a comprehensive archive for my work in CP352005: Compu
 | Lab2 | [Lab2](https://drive.google.com/drive/folders/1M2oyONDqAgAM3O3NShCe0fuCJn_DTRtc?usp=sharing) |
 | Lab3 | [Lab3](https://docs.google.com/document/d/1VNp8npP7U2oHTbFInu2mMqLKZAhu4DMrg3glnVcItkI/edit?usp=sharing) |
 | Lab4 | [Lab4](https://drive.google.com/drive/folders/1-37542pOfWwcTbrW8RJKtGT57pNXccm-?usp=sharing) |
-| New Network | [Lab5](https://drive.google.com/drive/folders/1efLgvRvZgSj4z_xfi4NvnZRvThgi01-t?usp=sharing) |
+| New Network | [New Network](https://drive.google.com/drive/folders/1efLgvRvZgSj4z_xfi4NvnZRvThgi01-t?usp=sharing) |
 
 ## Group Project
 Project name : Tastes Through Network\
