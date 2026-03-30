@@ -31,6 +31,7 @@ Assignment link : [New Network](https://drive.google.com/drive/folders/1efLgvRvZ
 # What I have learned from these labs
 
 ## 1. Network Connectivity & Protocol Fundamentals (Lab 1)
+
 **Address Resolution**: Mastered how **ARP (Address Resolution Protocol)** must resolve a destination MAC address before **ICMP (Ping)** can begin data transmission
 **Device Roles**: Verified that a **Switch** functions at Layer 2 by learning MAC addresses, while a **Router** operates at Layer 3 to forward packets between interfaces
 **Troubleshooting**: Identified that mismatched subnet masks or administrative shutdowns are primary causes for connectivity failure
@@ -42,12 +43,14 @@ Assignment link : [New Network](https://drive.google.com/drive/folders/1efLgvRvZ
 **Security Posture**: Applied **Management VLANs** (VLAN 99) for system isolation and **Blackhole VLANs** (VLAN 999) to secure unused ports against unauthorized access
 
 ## 3. Router-on-a-Stick & Application Semantics (Lab 3)
-[cite_start]Blends classical networking with application-layer engineering using custom protocols
+
+Blends classical networking with application-layer engineering using custom protocols
 **Router-on-a-Stick**: Configured sub-interfaces with specific 802.1Q encapsulation to manage multiple broadcast domains over a single link
 **MIME & Metadata**: Deployed a **MIME-aware** socket server that uses **JSON headers** to provide semantic meaning (file type and size) to binary payloads
 **Encapsulation Analysis**: Utilized **Wireshark** to observe the **TCP Three-Way Handshake** and analyze how application data survives multiple layers of encapsulation
 
 ## 4. Distributed Systems & NAT Simulation (Lab 4)
+
 **Network Address Translation (NAT)**: Implemented **PAT (Port Address Translation)** to allow private 192.168.x.x traffic to reach the simulated internet
 **Service Architecture**: Compared the behavior of **Stateless** vs. **Stateful** APIs, verifying that stateful services require persistent **Session-IDs** to maintain identity across NAT
 **Infrastructure-as-Code (IaC)**: Mastered modern DevOps workflows by deploying containerized services using automated scripts and environment configuration files
