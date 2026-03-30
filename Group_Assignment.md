@@ -6,6 +6,8 @@ Assignment link : [Lab1](https://drive.google.com/drive/folders/12igTDyQwVWYtyPY
 
 This lab documents the configuration and verification of a basic local area network (LAN) consisting of a router, a switch, and two PCs using Packet Tracer. It focuses on analyzing network protocols like ARP and ICMP through connectivity tests and troubleshooting scenarios involving subnet masks and default gateways.
 
+![lap1topology](images/lab1topology.png)
+
 ## Lab 2
 
 Assignment link : [Lab2](https://drive.google.com/drive/folders/1M2oyONDqAgAM3O3NShCe0fuCJn_DTRtc?usp=sharing)
@@ -18,15 +20,21 @@ Assignment link : [Lab3](https://docs.google.com/document/d/1VNp8npP7U2oHTbFInu2
 
 This lab focuses on configuring Router-on-a-Stick inter-VLAN routing to facilitate a MIME-based file transfer between a client and server in different broadcast domains. By combining network layer configurations with application-layer engineering, it demonstrates how 802.1Q tagging, TCP reliability, and JSON metadata interact to preserve data meaning across the OSI stack.
 
+![lap3topology](images/lab3topology.png)
+
 ## Lab 4
 
 Assignment link : [Lab4](https://drive.google.com/drive/folders/1-37542pOfWwcTbrW8RJKtGT57pNXccm-?usp=sharing)
 
 This lab focuses on the implementation of a simulated internet architecture connecting two private LANs through Static Routing and NAT (PAT overload). It demonstrates the deployment of stateful and stateless services using containerized mockup infrastructure, allowing for a comparative analysis of session persistence and application behavior across simulated public and private network segments.
 
+![lap4topology](images/lab4topology.png)
+
 ## New Network
 
 Assignment link : [New Network](https://drive.google.com/drive/folders/1efLgvRvZgSj4z_xfi4NvnZRvThgi01-t?usp=sharing)
+
+Group Discussion on building new network technology.
 
 # What I have learned from these labs
 
