@@ -1,6 +1,6 @@
 # CP352005-Networks-Portfolio
 ## About Me
-นายวัชรวิศว์ น้อยเมล์ 673380059-1 section 1\
+นายวัชรวิศว์ น้อยเมล์ 673380059-1 section 2\
 Email : watcharawit.n@kkumail.com\
 Computer Science - College of Computing Khon Kaen University
 
