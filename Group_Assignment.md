@@ -1,4 +1,4 @@
-# Group Assignment
+# 👥 Group Assignment
 
 ## Lab 1
 
@@ -36,7 +36,7 @@ Assignment link : [New Network](https://drive.google.com/drive/folders/1efLgvRvZ
 
 Group Discussion on building new network technology.
 
-# What I have learned from these labs
+# 💡 What I have learned from these labs
 
 ## 1. Network Connectivity & Protocol Fundamentals (Lab 1)
 
