@@ -1,4 +1,4 @@
-# Personal Assignments
+# 📝 Personal Assignments
 
 ## Assignment 1 Essay
 
@@ -38,7 +38,7 @@ This lab focuses on transforming microservices into a realistic enterprise deplo
 
 ![lab5topology](images/lab5topology.png)
 
-# What I have learned from these assignments
+# 💡 What I have learned from these assignments
 
 ## 1. Network Topologies and Core Infrastructure
 * **Network Classification**: Learned to identify and differentiate between various network scales, including **Point-to-Point**, **Peer-to-Peer LANs**, and **Routed Networks**.
