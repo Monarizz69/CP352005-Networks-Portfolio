@@ -1,12 +1,12 @@
 # CP352005-Networks-Portfolio
-## About Me
+## 👤 About Me
 นายวัชรวิศว์ น้อยเมล์ 673380059-1 section 2\
 Email : watcharawit.n@kkumail.com\
 Computer Science - College of Computing Khon Kaen University
 
 ---
 
-## About This Repository
+## 📖 About This Repository
 This repository serves as a comprehensive archive for my work in CP352005: Computer Networks and Network Programming. It contains all collection of my academic journey, including:
 * Personal Assignments
 
@@ -16,7 +16,7 @@ This repository serves as a comprehensive archive for my work in CP352005: Compu
 
 ---
 
-## Personal Assignments
+## 📝 Personal Assignments
 
 [Click here](Personal_Assignments.md) to view the detail of each assignments
 
@@ -28,7 +28,7 @@ This repository serves as a comprehensive archive for my work in CP352005: Compu
 | Assignment 4 TCP-UDP | [TCP-UDP](https://docs.google.com/document/d/10Cl9cys9ea3tRAdnYUAWQGmRKKu0C84RDD9asBA64uU/edit?usp=sharing) |
 | Lab5 | [Lab5](https://docs.google.com/document/d/1v2tcchE9dSO8KOoyiubx_anqNG4-aJjzBqlvtkk1RCg/edit?usp=sharing) |
 
-## Group Assignments
+## 👥 Group Assignments
 
 [Click here](Group_Assignment.md) to view the detail of each assignments
 
@@ -40,7 +40,7 @@ This repository serves as a comprehensive archive for my work in CP352005: Compu
 | Lab4 | [Lab4](https://drive.google.com/drive/folders/1-37542pOfWwcTbrW8RJKtGT57pNXccm-?usp=sharing) |
 | New Network | [New Network](https://drive.google.com/drive/folders/1efLgvRvZgSj4z_xfi4NvnZRvThgi01-t?usp=sharing) |
 
-## Group Project
+## 🚀 Group Project
 Project name : Tastes Through Network\
 Project repository : [Tastes Through Network](https://github.com/boatrocl/Network_Project_2026)
 
@@ -51,7 +51,7 @@ Taste Data Transmission Network (TTN) is a Cyber-Physical System simulating end-
 | Sprint Alpha +1 | [Sprint Alpha](https://drive.google.com/drive/folders/1TGKRI3FodbM9AM4wki3onLOiRvzmlIdf?usp=drive_link) |
 | Project Artifacts | [Project Artifacts](https://drive.google.com/drive/folders/1p_LOMelqeetF80HmdlCLc08hhDfGDqzz?usp=sharing) |
 
-## Certificate
+## 📜 Certificate
 Pre1 Computer Networks - Getting Started with Cisco Packet Tracer
 
 ![Pre1 Computer Networks](images/Getting_Started_with_Cisco_Packet_Tracer_certificate_watcharawit-n-kkumail-com_19c01c84-2202-4be8-931e-b8008c070161.pdf.png)
