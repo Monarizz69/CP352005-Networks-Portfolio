@@ -4,6 +4,8 @@
 Email : watcharawit.n@kkumail.com\
 Computer Science - College of Computing Khon Kaen University
 
+---
+
 ## About This Repository
 This repository serves as a comprehensive archive for my work in CP352005: Computer Networks and Network Programming. It contains all collection of my academic journey, including:
 * Personal Assignments
@@ -11,6 +13,8 @@ This repository serves as a comprehensive archive for my work in CP352005: Compu
 * Group Assignments & Projects
 
 * Certificates
+
+---
 
 ## Personal Assignments
 
@@ -36,7 +40,7 @@ This repository serves as a comprehensive archive for my work in CP352005: Compu
 Project name : Tastes Through Network\
 Project repository : [Tastes Through Network](https://github.com/boatrocl/Network_Project_2026)
 
-Taste Data Transmission Network (TTN) is a Cyber-Physical System simulating end-to-end digital taste transmission to study Data Communication and IoT Networking within the "Internet of Senses" framework. Inspired by the e-Taste (2025) research, it converts taste into digital vectors for real-time delivery via wireless networks and IoT Cloud to a physical actuator.
+Taste Data Transmission Network (TTN) is a Cyber-Physical System simulating end-to-end digital taste transmission to study Data Communication and IoT Networking within the "Internet of Senses" framework. Inspired by the [e-Taste (2025) research](https://www.science.org/doi/10.1126/sciadv.adr4797), it converts taste into digital vectors for real-time delivery via wireless networks and IoT Cloud to a physical actuator.
 
 | Document | Document Link |
 | --- | --- |
@@ -48,6 +52,6 @@ Pre1 Computer Networks - Getting Started with Cisco Packet Tracer
 
 ![Pre1 Computer Networks](images/Getting_Started_with_Cisco_Packet_Tracer_certificate_watcharawit-n-kkumail-com_19c01c84-2202-4be8-931e-b8008c070161.pdf.png)
 
-CCNA Exam Score
+## CCNA1: Introduction to Networks Exam Result
 
 ![CCNA Score](images/CCNA_Score.png)
