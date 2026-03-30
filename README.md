@@ -44,6 +44,8 @@ This repository serves as a comprehensive archive for my work in CP352005: Compu
 Project name : Tastes Through Network\
 Project repository : [Tastes Through Network](https://github.com/boatrocl/Network_Project_2026)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Tastes_Through_Network-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/boatrocl/Network_Project_2026)
+
 Taste Data Transmission Network (TTN) is a Cyber-Physical System simulating end-to-end digital taste transmission to study Data Communication and IoT Networking within the "Internet of Senses" framework. Inspired by the [e-Taste (2025) research](https://www.science.org/doi/10.1126/sciadv.adr4797), it converts taste into digital vectors for real-time delivery via wireless networks and IoT Cloud to a physical actuator.
 
 | Document | Document Link |
