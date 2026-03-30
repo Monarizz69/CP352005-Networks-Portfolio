@@ -12,11 +12,15 @@ Assignment link : [Topology](https://docs.google.com/document/d/14l5WtO8LrEsfGFM
 
 This assignment explores different network architectures by categorizing them into three levels: simple peer-to-peer connections between two PCs, switched networks for multiple end devices, and complex infrastructures using routers to interconnect multiple LANs. It provides a visual guide to how network complexity scales from basic local communication to routed connectivity.
 
+![assignment2topology](images/Assignment2topology.png)
+
 ## Assignment 3 Not-Simple network
 
 Assignment link : [Not-Simple](https://docs.google.com/document/d/1AbRPcuKH__n6EdF3AXkfzLf8uimcW6u0pIfbVuM12TA/edit?usp=drivesdk)
 
 This assignment involves building a non-simple network in Cisco Packet Tracer by interconnecting two separate LANs through a serial router-to-router connection. The project focuses on configuring IP addresses, default gateways, and static routing commands to ensure successful communication and connectivity between all end devices across different subnets.
+
+![assignment3topology](images/Assignment3topology.png)
 
 ## Assignment 4 TCP-UDP
 
@@ -24,11 +28,15 @@ Assignment link : [TCP-UDP](https://docs.google.com/document/d/10Cl9cys9ea3tRAdn
 
 This assignment explores the fundamental differences between TCP and UDP protocols through simulated network traffic in Cisco Packet Tracer. By generating and analyzing HTTP, FTP, DNS, and Email traffic, the lab demonstrates key networking concepts such as multiplexing, connection-oriented reliability (TCP), and connectionless best-effort delivery (UDP). Detailed PDU examinations are used to verify how source and destination ports, sequence numbers, and acknowledgement values change during a data conversation.
 
+![assignment4topology](images/Assignment4topology.png)
+
 ## Lab 5
 
 Assignment link : [Lab5](https://docs.google.com/document/d/1v2tcchE9dSO8KOoyiubx_anqNG4-aJjzBqlvtkk1RCg/edit?usp=sharing)
 
 This lab focuses on transforming microservices into a realistic enterprise deployment by integrating an Internet Edge Router (R1) with a Branch Router (R2) over a Serial ISP WAN. It demonstrates the deployment of distributed FastAPI microservice stacks across two separate LANs while validating cross-site access and internet reachability via NAT overload. The assignment highlights critical architectural patterns, including public-private boundaries, network segmentation, and hierarchical WAN connectivity.
+
+![lab5topology](images/lab5topology.png)
 
 # What I have learned from these assignments
 
