@@ -18,6 +18,8 @@ This repository serves as a comprehensive archive for my work in CP352005: Compu
 
 ## Personal Assignments
 
+[Click here](Personal_Assignments.md) to view the detail of each assignments
+
 | Assignment | Document Link |
 | --- | --- |
 | Assignment 1 Essay | [personal Essay](https://docs.google.com/document/d/1s7SnRk5C5FWJIBULi0pV9QJDPP1eLx8_Ajq73xU4ZBQ/edit?usp=sharing) |
