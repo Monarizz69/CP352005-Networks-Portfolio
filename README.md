@@ -56,6 +56,6 @@ Pre1 Computer Networks - Getting Started with Cisco Packet Tracer
 
 ![Pre1 Computer Networks](images/Getting_Started_with_Cisco_Packet_Tracer_certificate_watcharawit-n-kkumail-com_19c01c84-2202-4be8-931e-b8008c070161.pdf.png)
 
-## CCNA1: Introduction to Networks Exam Result
+## CCNA1: Introduction to Networks Exam Results
 
 ![CCNA Score](images/CCNA_Score.png)
